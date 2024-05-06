@@ -1,4 +1,4 @@
-# osfetch.sh
+# osfetch-old.sh
 script that fetches system information and displays it to the user
 
 custom data formatting using awk
